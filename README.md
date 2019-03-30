@@ -1,2 +1,2 @@
 # Kütüphane Otamasyon Programı
-Python ile kütüphane programı
+Python ile kütüphane otomasyon programı
